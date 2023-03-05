@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Topics/If expression/Healthy sleep/out/
+/Topics/If expression/Healthy sleep/out/production/classes/
+/Zookeeper (Kotlin)/task/build/
+/Zookeeper (Kotlin)/task/out/
+/Zookeeper (Kotlin)/task/out/production/classes/
